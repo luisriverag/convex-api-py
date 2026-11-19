@@ -3,8 +3,8 @@
     :alt: Convex Developers
     :target: https://convex.world
 
-convex-api-py API Documentation
-===============================
+convex-sdk API Documentation
+============================
 
 These docs are API Reference docs.
 
@@ -17,5 +17,6 @@ Contents
     :glob:
 
     classes/account
-    classes/convex_api
+    classes/convex
+    classes/key_pair
     modules/exceptions
